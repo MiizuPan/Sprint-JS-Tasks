@@ -9,3 +9,6 @@ _no instructions or details was available at the time of submission_
 #### Task 2: Create a weather app using Fns
 path: The JavaScript Odyssey > Functions > Global Built-in Functions
 _the instructions given were with API integration and that is not explained in this current chapter and is too advanced currently, thus an alternative is done through all that was learnt up until this point_
+
+#### Task 3: Build a To-Do List App with Arrays and Objects
+path: The JavaScript Odyssey > Objects & Arrays > Arrays
